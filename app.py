@@ -21,4 +21,4 @@ if __name__ == "__main__":
     db.add_documents(chunks, vectors)  # Add document to db
 
     search = RAGSearch(vector_store=db)
-    print(search.search("what is leave policy"))  # Retrieving data
+    print(search.search("What is attention mechainsm?"))  # Retrieving data
