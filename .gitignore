@@ -11,6 +11,5 @@ wheels/
 data
 .env
 Notebook/rag.ipynb
-src
-app.py
+
 
